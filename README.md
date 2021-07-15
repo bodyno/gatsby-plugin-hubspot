@@ -4,6 +4,8 @@
 
 A Gatsby plugin to easily add a HubSpot embed code to your site.
 
+# Fix inner script doesn't run problem.
+
 ## Installing
 
 `npm install --save gatsby-plugin-hubspot`
